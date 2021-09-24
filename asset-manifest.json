@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/esmee/static/css/main.00d13990.chunk.css",
+    "main.js": "/esmee/static/js/main.7e9ce48d.chunk.js",
+    "main.js.map": "/esmee/static/js/main.7e9ce48d.chunk.js.map",
+    "runtime-main.js": "/esmee/static/js/runtime-main.45ba1e9c.js",
+    "runtime-main.js.map": "/esmee/static/js/runtime-main.45ba1e9c.js.map",
+    "static/js/2.3364f870.chunk.js": "/esmee/static/js/2.3364f870.chunk.js",
+    "static/js/2.3364f870.chunk.js.map": "/esmee/static/js/2.3364f870.chunk.js.map",
+    "static/js/3.3e202f2e.chunk.js": "/esmee/static/js/3.3e202f2e.chunk.js",
+    "static/js/3.3e202f2e.chunk.js.map": "/esmee/static/js/3.3e202f2e.chunk.js.map",
+    "index.html": "/esmee/index.html",
+    "static/css/main.00d13990.chunk.css.map": "/esmee/static/css/main.00d13990.chunk.css.map",
+    "static/js/2.3364f870.chunk.js.LICENSE.txt": "/esmee/static/js/2.3364f870.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45ba1e9c.js",
+    "static/js/2.3364f870.chunk.js",
+    "static/css/main.00d13990.chunk.css",
+    "static/js/main.7e9ce48d.chunk.js"
+  ]
+}
