@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/esemee50/esmee/static/css/main.00d13990.chunk.css",
+    "main.js": "/esemee50/esmee/static/js/main.7e9ce48d.chunk.js",
+    "main.js.map": "/esemee50/esmee/static/js/main.7e9ce48d.chunk.js.map",
+    "runtime-main.js": "/esemee50/esmee/static/js/runtime-main.5f166b9a.js",
+    "runtime-main.js.map": "/esemee50/esmee/static/js/runtime-main.5f166b9a.js.map",
+    "static/js/2.3364f870.chunk.js": "/esemee50/esmee/static/js/2.3364f870.chunk.js",
+    "static/js/2.3364f870.chunk.js.map": "/esemee50/esmee/static/js/2.3364f870.chunk.js.map",
+    "static/js/3.3e202f2e.chunk.js": "/esemee50/esmee/static/js/3.3e202f2e.chunk.js",
+    "static/js/3.3e202f2e.chunk.js.map": "/esemee50/esmee/static/js/3.3e202f2e.chunk.js.map",
+    "index.html": "/esemee50/esmee/index.html",
+    "static/css/main.00d13990.chunk.css.map": "/esemee50/esmee/static/css/main.00d13990.chunk.css.map",
+    "static/js/2.3364f870.chunk.js.LICENSE.txt": "/esemee50/esmee/static/js/2.3364f870.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f166b9a.js",
+    "static/js/2.3364f870.chunk.js",
+    "static/css/main.00d13990.chunk.css",
+    "static/js/main.7e9ce48d.chunk.js"
+  ]
+}
